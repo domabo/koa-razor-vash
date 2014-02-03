@@ -1,0 +1,13 @@
+{
+    "name": "koa-razor-vash",
+    "description": "Razor View Engine (vash) for node.js koa",
+    "author": "domabo",
+    "version": "0.0.1",
+    "repository": "git://github.com/domabo/koa-razor-vash.git",
+    "dependencies": {
+        "vash": "*"
+     },
+    "engines": {
+        "node": ">= 0.11.9"
+    }
+}
